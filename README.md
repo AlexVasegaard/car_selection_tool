@@ -6,3 +6,8 @@ Additionally the corresponding pareto front with the corresponding a priori defi
 
 Here is an example of a plot.
 ![image](https://user-images.githubusercontent.com/22115067/234902962-cf9d9903-1248-4e07-81a7-b003bd8ca1af.png)
+
+
+Note, the link inserted has to be in the format of prices (that means no leasing and payoff options can be implemented)
+
+Enjoy! 
